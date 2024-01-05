@@ -2,7 +2,7 @@
 Estudiante de ingeniería y programador autodidacta especializado en desarrollo web y scripting. 🌠<br/> Con sólidas habilidades para la creación de interfaces y aplicaciones web. 🏗️<br/> Estudiando desarrollo web FullStack. 📦<br/> - Preguntame sobre Front end. 📐
 
 
-# 🌐 redes Sociales:
+## 🌐 redes Sociales:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/diegolpezt1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diegot4l) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/diegot4l)
 
 # 💻 Tech Stack:
@@ -18,6 +18,10 @@ Estudiante de ingeniería y programador autodidacta especializado en desarrollo 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoT4l&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<img src="https://komarev.com/ghpvc/?username=diegot4l&label=Profile%20views&color=0e75b6&style=flat&color=yellow" alt="aleepsy"/> 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+  ## 💰 Puedes apoyarme donando
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DiegoL84) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/DiegoT4l)
+
+[![](https://visitcount.itsvg.in/api?id=diegot4l&icon=0&color=0)](https://visitcount.itsvg.in)
