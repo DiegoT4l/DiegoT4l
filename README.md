@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Estudiante de ingeniería y programador autodidacta especializado en desarrollo web y scripting. 🌠<br/> Con sólidas habilidades para la creación de interfaces y aplicaciones web. 🏗️<br/> Estudiando desarrollo web FullStack. 📦<br/> - Preguntame sobre Front end. 📐
+Estudiante de ingeniería y programador especializado en desarrollo web y scripting. 🌠<br/> Con sólidas habilidades para la creación de interfaces y aplicaciones web. 🏗️<br/> Estudiando desarrollo web FullStack. 📦<br/> - Preguntame sobre Front end. 📐
 
 
 ## 🌐 redes Sociales:
