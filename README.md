@@ -3,7 +3,7 @@
 &nbsp;***About me***
 
 <div align=center>
- I am a web developer with over 2 years of experience, focused on creating web applications and digital solutions tailored to the needs of each project.
+ I am a web developer with over 3 years of experience, focused on creating web applications and digital solutions tailored to the needs of each project.
  I’m passionate about solving complex problems and designing efficient interfaces.
  I’ve worked on building dynamic websites and custom applications, always aiming to deliver high performance and an excellent user experience.
  My goal is to deliver quality products that make life easier for both users and clients.
